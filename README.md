@@ -3,3 +3,4 @@ component
 blue
 red
 blue2
+red2
