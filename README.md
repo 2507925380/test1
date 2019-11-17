@@ -2,3 +2,4 @@
 component
 blue
 red
+red2
